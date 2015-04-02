@@ -1,0 +1,4 @@
+
+(process:8936): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+
+** (emacs:9174): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-WCF14SphFJ: Connexion refusée
